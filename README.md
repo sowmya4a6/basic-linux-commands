@@ -11,3 +11,5 @@
 - cat (file discription)
  ## clone the repository
  - git clone repositorylink
+## to intialisze the git
+- git init
