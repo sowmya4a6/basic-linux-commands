@@ -13,7 +13,7 @@
  - git clone repositorylink
 ## to intialisze the git
 - git init
-# gut commands
+# git commands
 - git init
 - git branch
 - git add file
