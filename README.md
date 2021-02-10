@@ -29,4 +29,4 @@
 - git config user.name "user email"
 - git commit -m "message"
 - git push remotename branchname
-- git pop remotename branchname
+- git pullremotename branchname
