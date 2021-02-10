@@ -13,3 +13,20 @@
  - git clone repositorylink
 ## to intialisze the git
 - git init
+# gut commands
+- git init
+- git branch
+- git add file
+- git remote -v
+- git clone "url"
+- git remote add remotenme "repolink"
+- git log
+- git log --one line
+- git revert filename
+- git reset filename
+- git rm filename
+- git config user.name "userame"
+- git config user.name "user email"
+- git commit -m "message"
+- git push remotename branchname
+- git pop remotename branchname
