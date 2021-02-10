@@ -15,18 +15,38 @@
 - git init
 # git commands
 - git init
+  - to initialise git repository
+- git status
+  - current status of git
 - git branch
-- git add file
-- git remote -v
+     -current working branch
+- git add filename
+  - adds the files into the staging area
+- git remote 
+  - current remotes in repository
+-git remote -v
+    - curret remote
 - git clone "url"
+   - copy the repository files into ur local system
 - git remote add remotenme "repolink"
+    - it will create a remote with past name
 - git log
+    - committed history
 - git log --one line
+    -- it will gives u committed history in single line
 - git revert filename
+    - it will undo the chnages
 - git reset filename
-- git rm filename
+   - reset ur filename
+ - git rm filename
+    - will removw the filename
 - git config user.name "userame"
+   -  to set ur username
 - git config user.name "user email"
+   - to set ur email
 - git commit -m "message"
+   - to commit ur changes along with the messages
 - git push remotename branchname
+   - send the files to ur local system to github server
 - git pullremotename branchname
+   - to receive github files to repository to local system
